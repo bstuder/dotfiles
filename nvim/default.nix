@@ -128,7 +128,6 @@ in
               nix
               objc
               objdump
-              org
               passwd
               pem
               printf
